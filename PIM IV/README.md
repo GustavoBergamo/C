@@ -1,1 +1,1 @@
-Program using procedural logic to create a System that 
+Program using procedural logic to create a System that register pacients in a .txt file.
