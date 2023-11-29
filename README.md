@@ -1,2 +1,2 @@
-# exercicios_C
+Exercises using C Language. (Procedural language)
  
